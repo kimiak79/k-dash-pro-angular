@@ -4,27 +4,36 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 ## Development server
 
-To start a local development server, run:
+To first start a local development server, run:
 
 ```bash
-ng serve
+npm run first_start
 ```
 
+For future uses, it is enough to write the following command:
+
+```bash
+npm start
+```
 Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
 
-## Code scaffolding
+## Architecture
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+This project was designed following an Enterprise UX process.
 
-```bash
-ng generate component component-name
-```
+📄 Documentation
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+- Information Architecture
+- Master User Flow
+- Feature Flows
+- Wireframes
+- Design System
 
-```bash
-ng generate --help
-```
+## Master User Flow
+
+![Master User Flow](docs/architecture/master-user-flow.svg)
+
+➡️ More documentation is available inside the `docs/` folder. 
 
 ## Building
 
