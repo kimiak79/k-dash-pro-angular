@@ -35,6 +35,12 @@ This project was designed following an Enterprise UX process.
 
 ➡️ More documentation is available inside the `docs/` folder. 
 
+## Wireframes
+
+The initial wireframes for K-Dash Pro were created in Excalidraw before the high-fidelity UI design in Figma.
+
+![Wireframes](docs/wireframes/wireframes.png)
+
 ## Building
 
 To build the project run:
